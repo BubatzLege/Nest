@@ -1,0 +1,284 @@
+﻿Nr.;Steh/Sitz;Art;Position;Fenster;Steckdose;Sitzgelegenheit;Ort;Koordinaten Y;Koordinaten X
+1;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Mauer;150;140
+2;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Mauer;190;140
+3;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Mauer;120;140
+4;Sitzplatz;2er Tisch;Rand;nein;ja;ja;Mauer;35;220
+5;Sitzplatz;6er Tisch;Rand;nein;ja;ja;Mauer;145;255
+6;Sitzplatz;6er Tisch;Rand;nein;ja;ja;Mauer;170;255
+7;Sitzplatz;6er Tisch;Rand;nein;ja;ja;Mauer;145;280
+8;Sitzplatz;6er Tisch;Rand;nein;ja;ja;Mauer;170;280
+9;Sitzplatz;6er Tisch;Rand;nein;ja;ja;Mauer;145;320
+10;Sitzplatz;6er Tisch;Rand;nein;ja;ja;Mauer;170;320
+11;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Glasscheibe;35;370
+12;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Glasscheibe;35;420
+13;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Glasscheibe;35;480
+14;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Glasscheibe;35;540
+15;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Glasscheibe;35;590
+16;Sitzplatz;6er Tisch;Rand;nein;ja;ja;Gruppe;165;710
+17;Sitzplatz;6er Tisch;Rand;nein;ja;ja;Gruppe;200;710
+18;Sitzplatz;6er Tisch;Rand;nein;ja;ja;Gruppe;230;710
+19;Sitzplatz;6er Tisch;Rand;nein;ja;ja;Gruppe;270;710
+20;Sitzplatz;6er Tisch;Rand;nein;ja;ja;Gruppe;165;735
+21;Sitzplatz;6er Tisch;Rand;nein;ja;ja;Gruppe;200;735
+22;Sitzplatz;6er Tisch;Rand;nein;ja;ja;Gruppe;230;735
+23;Sitzplatz;6er Tisch;Rand;nein;ja;ja;Gruppe;270;735
+24;Sitzplatz;6er Tisch;Rand;nein;ja;ja;Gruppe;165;835
+25;Sitzplatz;6er Tisch;Rand;nein;ja;ja;Gruppe;200;835
+26;Sitzplatz;6er Tisch;Rand;nein;ja;ja;Gruppe;230;835
+27;Sitzplatz;6er Tisch;Rand;nein;ja;ja;Gruppe;270;835
+28;Sitzplatz;6er Tisch;Rand;nein;ja;ja;Gruppe;165;858
+29;Sitzplatz;6er Tisch;Rand;nein;ja;ja;Gruppe;200;858
+30;Sitzplatz;6er Tisch;Rand;nein;ja;ja;Gruppe;230;858
+31;Sitzplatz;6er Tisch;Rand;nein;ja;ja;Gruppe;270;858
+32;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Glasscheibe;35;860
+33;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Glasscheibe;35;905
+34;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Glasscheibe;35;958
+35;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Glasscheibe;35;1128
+36;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Glasscheibe;35;1180
+37;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Glasscheibe;35;1230
+38;Sitzplatz;1er Tisch;Rand;nein;zu teilen;ja;Glasscheibe;35;1290
+39;Sitzplatz;1er Tisch;Rand;nein;zu teilen;ja;Glasscheibe;35;1245
+40;Sitzplatz;1er Tisch;Rand;nein;zu teilen;ja;Glasscheibe;35;1403
+41;Sitzplatz;8erTisch;Rand;nein;zu teilen;ja;Gruppe;165;1185
+42;Sitzplatz;8erTisch;Rand;nein;zu teilen;ja;Gruppe;200;1185
+43;Sitzplatz;8erTisch;Rand;nein;zu teilen;ja;Gruppe;235;1185
+44;Sitzplatz;8erTisch;Rand;nein;zu teilen;ja;Gruppe;270;1185
+45;Sitzplatz;8erTisch;Rand;nein;zu teilen;ja;Gruppe;165;1205
+46;Sitzplatz;8erTisch;Rand;nein;zu teilen;ja;Gruppe;200;1205
+47;Sitzplatz;8erTisch;Rand;nein;zu teilen;ja;Gruppe;235;1205
+48;Sitzplatz;8erTisch;Rand;nein;zu teilen;ja;Gruppe;270;1205
+49;Sitzplatz;8erTisch;Rand;nein;zu teilen;ja;Gruppe;130;1540
+50;Sitzplatz;8erTisch;Rand;nein;zu teilen;ja;Gruppe;158;1540
+51;Sitzplatz;8erTisch;Rand;nein;zu teilen;ja;Gruppe;130;1574
+52;Sitzplatz;8erTisch;Rand;nein;ja;ja;Gruppe;158;1574
+53;Sitzplatz;8erTisch;Rand;nein;ja;ja;Gruppe;130;1605
+54;Sitzplatz;8erTisch;Rand;nein;ja;ja;Gruppe;158;1605
+55;Sitzplatz;8erTisch;Rand;nein;ja;ja;Gruppe;130;1645
+56;Sitzplatz;8erTisch;Rand;nein;ja;ja;Gruppe;158;1645
+57;Sitzplatz;8erTisch;Rand;nein;ja;ja;Gruppe;275;1540
+58;Sitzplatz;8erTisch;Rand;nein;ja;ja;Gruppe;300;1540
+59;Sitzplatz;8erTisch;Rand;nein;ja;ja;Gruppe;275;1574
+60;Sitzplatz;8erTisch;Rand;nein;ja;ja;Gruppe;300;1574
+61;Sitzplatz;8erTisch;Rand;nein;ja;ja;Gruppe;275;1605
+62;Sitzplatz;8erTisch;Rand;nein;ja;ja;Gruppe;300;1605
+63;Sitzplatz;8erTisch;Rand;nein;ja;ja;Gruppe;275;1645
+64;Sitzplatz;8erTisch;Rand;nein;ja;ja;Gruppe;300;1645
+65;Sitzplatz;6er Tisch;Rand;nein;ja;ja;Gruppe;485;255
+66;Sitzplatz;6er Tisch;Rand;nein;ja;ja;Gruppe;505;255
+67;Sitzplatz;6er Tisch;Rand;nein;ja;ja;Gruppe;485;280
+68;Sitzplatz;6er Tisch;Rand;nein;ja;ja;Gruppe;505;280
+69;Sitzplatz;6er Tisch;Rand;nein;ja;ja;Gruppe;485;320
+70;Sitzplatz;6er Tisch;Rand;nein;ja;ja;Gruppe;505;320
+71;Sitzplatz;2er Tisch;Mitte;ja;ja;ja;Fenster;560;140
+72;Sitzplatz;2er Tisch;Mitte;ja;ja;ja;Fenster;605;140
+73;Sitzplatz;2er Tisch;Mitte;ja;ja;ja;Fenster;655;140
+74;Sitzplatz;2er Tisch;Mitte;ja;ja;ja;Fenster;700;140
+75;Stehplatz;Hochtisch;Mitte;nein;ja;Hochsitz;Gruppe;626;232
+76;Stehplatz;Hochtisch;Mitte;nein;ja;Hochsitz;Gruppe;643;232
+77;Stehplatz;Hochtisch;Mitte;nein;ja;Hochsitz;Gruppe;626;264
+78;Stehplatz;Hochtisch;Mitte;nein;ja;Hochsitz;Gruppe;643;264
+79;Stehplatz;Hochtisch;Mitte;nein;ja;Hochsitz;Gruppe;626;300
+80;Stehplatz;Hochtisch;Mitte;nein;ja;Hochsitz;Gruppe;643;300
+81;Stehplatz;Hochtisch;Mitte;nein;ja;Hochsitz;Gruppe;626;333
+82;Stehplatz;Hochtisch;Mitte;nein;ja;Hochsitz;Gruppe;643;333
+83;Sitzplatz;2er  Tisch;Mitte;nein;ja;ja;Gruppe;736;277
+84;Sitzplatz;2er  Tisch;Mitte;nein;ja;ja;Gruppe;736;297
+85;Sitzplatz;2er  Tisch;Mitte;ja;ja;ja;Fenster;815;140
+86;Sitzplatz;2er  Tisch;Mitte;ja;ja;ja;Fenster;850;140
+87;Sitzplatz;2er  Tisch;Mitte;ja;ja;ja;Fenster;900;140
+88;Sitzplatz;2er  Tisch;Mitte;ja;ja;ja;Fenster;945;140
+89;Sitzplatz;2er  Tisch;Mitte;ja;ja;ja;Fenster;995;140
+90;Sitzplatz;2er  Tisch;Mitte;ja;ja;ja;Fenster;1038;140
+91;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;255;845
+92;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;255;870
+93;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;280;845
+94;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;280;870
+95;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;320;845
+96;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;320;870
+97;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;255;955
+98;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;255;970
+99;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;280;955
+100;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;280;970
+101;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;320;955
+102;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;320;970
+103;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;255;1030
+104;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;255;1090
+105;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;280;1030
+106;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;280;1090
+107;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;320;1030
+108;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;320;1090
+109;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;140;1100
+110;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;140;1150
+111;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;140;1190
+112;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;140;1240
+113;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;140;1280
+114;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;140;1320
+115;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;255;1240
+116;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;255;1260
+117;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;280;1240
+118;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;280;1260
+119;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;320;1240
+120;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;320;1260
+121;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;845;430
+122;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;870;430
+123;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;845;460
+124;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;870;460
+125;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;845;495
+126;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;870;495
+127;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;955;430
+128;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;970;430
+129;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;955;460
+130;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;970;460
+131;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;955;495
+132;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;970;495
+133;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;1065;430
+134;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;1090;430
+135;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;1065;460
+136;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;1090;460
+137;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;1065;495
+138;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;1090;495
+139;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;1180;430
+140;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;1200;430
+141;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;1180;460
+142;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;1200;460
+143;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;1180;495
+144;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;1200;495
+145;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;1285;430
+146;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;1310;430
+147;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;1285;460
+148;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;1310;460
+149;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;1285;495
+150;Sitzplatz;6er Tisch;Mitte;nein;ja;ja;Gruppe;1310;495
+151;Sitzplatz;1er Tisch;Mitte;nein;teilen;ja;Kuppel;880;620
+152;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;925;620
+153;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;970;620
+154;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;1010;620
+155;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;1065;620
+156;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;1105;620
+157;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;1151;620
+158;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;1195;620
+159;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;1236;620
+160;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;1280;620
+161;Sitzplatz;1er Tisch;Mitte;nein;ja;ja;Kuppel;720;769
+162;Sitzplatz;1er Tisch;Mitte;nein;ja;ja;Kuppel;720;806
+163;Sitzplatz;1er Tisch;Mitte;nein;ja;ja;Kuppel;720;836
+164;Sitzplatz;1er Tisch;Mitte;nein;ja;ja;Kuppel;720;868
+165;Sitzplatz;1er Tisch;Mitte;nein;ja;ja;Kuppel;720;904
+166;Sitzplatz;1er Tisch;Mitte;nein;ja;ja;Kuppel;720;940
+167;Sitzplatz;1er Tisch;Mitte;nein;ja;ja;Kuppel;720;971
+168;Sitzplatz;1er Tisch;Mitte;nein;ja;ja;Kuppel;720;1004
+169;Sitzplatz;1er Tisch;Mitte;nein;ja;ja;Kuppel;720;1036
+170;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;797;702
+171;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;797;752
+172;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;797;792
+173;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;797;845
+174;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;797;888
+175;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;797;927
+176;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;797;971
+177;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;797;1018
+178;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;797;1066
+179;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;797;1102
+180;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;1365;698
+181;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;1365;754
+182;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;1365;796
+183;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;1365;835
+184;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;1365;879
+185;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;1365;919
+186;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;1365;973
+187;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;1365;1012
+188;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;1365;1054
+189;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;1365;1097
+190;Sitzplatz;1er Tisch;Mitte;nein;ja;ja;Kuppel;1445;769
+191;Sitzplatz;1er Tisch;Mitte;nein;ja;ja;Kuppel;1445;805
+192;Sitzplatz;1er Tisch;Mitte;nein;ja;ja;Kuppel;1445;839
+193;Sitzplatz;1er Tisch;Mitte;nein;ja;ja;Kuppel;1445;873
+194;Sitzplatz;1er Tisch;Mitte;nein;ja;ja;Kuppel;1445;908
+195;Sitzplatz;1er Tisch;Mitte;nein;ja;ja;Kuppel;1445;937
+196;Sitzplatz;1er Tisch;Mitte;nein;ja;ja;Kuppel;1445;971
+197;Sitzplatz;1er Tisch;Mitte;nein;ja;ja;Kuppel;1445;1002
+198;Sitzplatz;1er Tisch;Mitte;nein;ja;ja;Kuppel;1445;1035
+199;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;880;1190
+200;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;925;1190
+201;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;970;1190
+202;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;1010;1190
+203;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;1065;1190
+204;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;1105;1190
+205;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;1151;1190
+206;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;1195;1190
+207;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;1236;1190
+208;Sitzplatz;2er Tisch;Mitte;nein;teilen;ja;Kuppel;1280;1190
+209;Sitzplatz;1er Tisch;Mitte;nein;ja;ja;Kuppel;943;1270
+210;Sitzplatz;1er Tisch;Mitte;nein;ja;ja;Kuppel;977;1270
+211;Sitzplatz;1er Tisch;Mitte;nein;ja;ja;Kuppel;1010;1270
+212;Sitzplatz;1er Tisch;Mitte;nein;ja;ja;Kuppel;1042;1270
+213;Sitzplatz;1er Tisch;Mitte;nein;ja;ja;Kuppel;1079;1270
+214;Sitzplatz;1er Tisch;Mitte;nein;ja;ja;Kuppel;1111;1270
+215;Sitzplatz;1er Tisch;Mitte;nein;ja;ja;Kuppel;1145;1270
+216;Sitzplatz;1er Tisch;Mitte;nein;ja;ja;Kuppel;1179;1270
+217;Sitzplatz;1er Tisch;Mitte;nein;ja;ja;Kuppel;1215;1270
+218;Sitzplatz;1er Grosstisch;Mitte;nein;nein;ja;Mauer;1380;1482
+219;Sitzplatz;2er Tisch;Mitte;ja;ja;ja;Fenster;1455;140
+220;Sitzplatz;2er Tisch;Mitte;ja;ja;ja;Fenster;1497;140
+221;Sitzplatz;2er Tisch;Mitte;ja;ja;ja;Fenster;1548;140
+222;Sitzplatz;2er Tisch;Mitte;ja;ja;ja;Fenster;1594;140
+223;Sitzplatz;2er Tisch;Mitte;nein;nein;ja;Gruppe;1426;272
+224;Sitzplatz;2er Tisch;Mitte;nein;nein;ja;Gruppe;1424;294
+225;Stehplatz;Hochtisch;Rand;nein;nein;Hochsitz;Gruppe;1512;234
+226;Stehplatz;Hochtisch;Rand;nein;nein;Hochsitz;Gruppe;1533;234
+227;Stehplatz;Hochtisch;Rand;nein;nein;Hochsitz;Gruppe;1510;268
+228;Stehplatz;Hochtisch;Rand;nein;nein;Hochsitz;Gruppe;1533;268
+229;Stehplatz;Hochtisch;Rand;nein;nein;Hochsitz;Gruppe;1512;303
+230;Stehplatz;Hochtisch;Rand;nein;nein;Hochsitz;Gruppe;1533;303
+231;Stehplatz;Hochtisch;Rand;nein;nein;Hochsitz;Gruppe;1512;338
+232;Stehplatz;Hochtisch;Rand;nein;nein;Hochsitz;Gruppe;1533;338
+233;Sitzplatz;6er Tisch;Rand;nein;ja;ja;Gruppe;1650;255
+234;Sitzplatz;6er Tisch;Rand;nein;ja;ja;Gruppe;1678;255
+235;Sitzplatz;6er Tisch;Rand;nein;ja;ja;Gruppe;1650;280
+236;Sitzplatz;6er Tisch;Rand;nein;ja;ja;Gruppe;1678;280
+237;Sitzplatz;6er Tisch;Rand;nein;ja;ja;Gruppe;1650;320
+238;Sitzplatz;6er Tisch;Rand;nein;ja;ja;Gruppe;1678;320
+239;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Mauer;1944;139
+240;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Mauer;1974;143
+241;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Mauer;2066;198
+242;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Mauer;2066;242
+243;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Mauer;2066;293
+244;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Mauer;2066;334
+245;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Mauer;2066;394
+246;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Mauer;2066;439
+247;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Mauer;2066;476
+248;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Mauer;2066;524
+249;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Mauer;2066;563
+250;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Mauer;2066;606
+251;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Mauer;2066;653
+252;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Mauer;2066;784
+253;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Mauer;2066;826
+254;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Mauer;2066;870
+255;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Mauer;2066;941
+256;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Mauer;2066;981
+257;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Mauer;2066;1027
+258;Sitzplatz;10er Tisch;Rand;nein;ja;ja;Gruppe;1929;1191
+259;Sitzplatz;10er Tisch;Rand;nein;ja;ja;Gruppe;1960;1191
+260;Sitzplatz;10er Tisch;Rand;nein;ja;ja;Gruppe;1998;1191
+261;Sitzplatz;10er Tisch;Rand;nein;ja;ja;Gruppe;2025;1191
+262;Sitzplatz;10er Tisch;Rand;nein;ja;ja;Gruppe;2062;1191
+263;Sitzplatz;10er Tisch;Rand;nein;ja;ja;Gruppe;1929;1217
+264;Sitzplatz;10er Tisch;Rand;nein;ja;ja;Gruppe;1960;1217
+265;Sitzplatz;10er Tisch;Rand;nein;ja;ja;Gruppe;1998;1217
+266;Sitzplatz;10er Tisch;Rand;nein;ja;ja;Gruppe;2025;1217
+267;Sitzplatz;10er Tisch;Rand;nein;ja;ja;Gruppe;2062;1217
+268;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Mauer;2066;1413
+269;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Mauer;1755;1497
+270;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Mauer;1755;1528
+271;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Mauer;1755;1565
+272;Sitzplatz;8erTisch;Rand;nein;ja;ja;Gruppe;1904;1500
+273;Sitzplatz;8erTisch;Rand;nein;ja;ja;Gruppe;1928;1500
+274;Sitzplatz;8erTisch;Rand;nein;ja;ja;Gruppe;1904;1534
+275;Sitzplatz;8erTisch;Rand;nein;ja;ja;Gruppe;1928;1534
+276;Sitzplatz;8erTisch;Rand;nein;ja;ja;Gruppe;1904;1568
+277;Sitzplatz;8erTisch;Rand;nein;ja;ja;Gruppe;1928;1568
+278;Sitzplatz;8erTisch;Rand;nein;ja;ja;Gruppe;1904;1604
+279;Sitzplatz;8erTisch;Rand;nein;ja;ja;Gruppe;1928;1604
+280;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Mauer;2065;1496
+281;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Mauer;2065;1533
+282;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Mauer;2065;1567
+283;Sitzplatz;1er Tisch;Rand;nein;ja;ja;Mauer;2065;1597
